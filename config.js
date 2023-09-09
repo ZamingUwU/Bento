@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'fr', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '48.804640',
+	defaultLongitude: '2.359180',
 
 	// Autochange
 	autoChangeTheme: true,
